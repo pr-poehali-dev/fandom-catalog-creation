@@ -4,9 +4,9 @@ export const mockFandoms: Fandom[] = [
   {
     id: '1',
     slug: 'harry-potter',
-    title: 'Гарри Поттер',
+    title: 'Love and Deepspace',
     coverUrl: '/placeholder.svg',
-    description: 'Магический мир Гарри Поттера и его друзей',
+    description: 'Все пейринги',
     worksCount: 5,
     updatedAt: '2025-10-20'
   },
