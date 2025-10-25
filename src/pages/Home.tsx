@@ -19,12 +19,8 @@ const Home = () => {
       
       <main className="container py-12">
         <div className="text-center mb-12 animate-fade-in">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Библиотека фанфиков
-          </h1>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Коллекция авторских работ по любимым фандомам
-          </p>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">i come with knive  Крис Ножи</h1>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">идём в лес покажу где много конфет телефон не бери маме не рассказывай</p>
         </div>
 
         <div className="max-w-xl mx-auto mb-12">
