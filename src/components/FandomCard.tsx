@@ -20,7 +20,7 @@ const FandomCard = ({ fandom }: FandomCardProps) => {
           <img 
             src={fandom.coverUrl} 
             alt={fandom.title}
-            className="w-full h-full object-cover object-[center_30%] transition-transform group-hover:scale-105"
+            className="w-full h-full object-cover object-[center_20%] transition-transform group-hover:scale-105"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-6">
             <h3 className="text-2xl font-bold text-white">{fandom.title}</h3>
