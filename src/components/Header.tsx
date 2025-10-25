@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
           <Icon name="BookOpen" size={24} className="text-primary" />
-          <span className="text-xl font-semibold">Fanfic Library</span>
+          <span className="text-xl font-semibold">Каталог работ</span>
         </Link>
         
         <nav className="hidden md:flex items-center gap-6">
