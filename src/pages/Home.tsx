@@ -32,7 +32,7 @@ const Home = () => {
             />
             <Input
               type="search"
-              placeholder="Поиск по фандомам..."
+              placeholder="Поиск по работам..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="pl-10 h-12"
