@@ -5,8 +5,12 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between">
-        <Link to="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
-          <Icon name="BookOpen" size={24} className="text-primary" />
+        <Link to="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
+          <img 
+            src="https://cdn.poehali.dev/projects/efdf6b54-320c-462c-937f-cde5c2cbee6a/files/1b858e7d-b144-4865-a9f9-7c10655045bd.jpg" 
+            alt="Аватар автора"
+            className="w-10 h-10 rounded-full object-cover border-2 border-primary/20"
+          />
           <span className="text-xl font-semibold">Каталог работ</span>
         </Link>
         
