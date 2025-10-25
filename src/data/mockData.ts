@@ -13,9 +13,9 @@ export const mockFandoms: Fandom[] = [
   {
     id: '2',
     slug: 'marvel',
-    title: 'Marvel',
+    title: 'Клуб романтики',
     coverUrl: '/placeholder.svg',
-    description: 'Вселенная супергероев Marvel',
+    description: 'Секрет Небес, Секрет Небес: Реквием, Кали: Пламя Сансары, Пси',
     worksCount: 4,
     updatedAt: '2025-10-18'
   },
