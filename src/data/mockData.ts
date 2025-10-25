@@ -5,7 +5,7 @@ export const mockFandoms: Fandom[] = [
     id: '1',
     slug: 'harry-potter',
     title: 'Love and Deepspace',
-    coverUrl: '/placeholder.svg',
+    coverUrl: 'https://cdn.poehali.dev/files/e56635fb-7619-4c68-9488-b6e93dc622c2.jpg',
     description: 'Все пейринги',
     worksCount: 5,
     updatedAt: '2025-10-20'
