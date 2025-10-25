@@ -22,9 +22,9 @@ export const mockFandoms: Fandom[] = [
   {
     id: '3',
     slug: 'sherlock',
-    title: 'Шерлок',
+    title: 'Лига мечтателей',
     coverUrl: '/placeholder.svg',
-    description: 'Современная адаптация приключений великого сыщика',
+    description: 'Закон зверя',
     worksCount: 3,
     updatedAt: '2025-10-15'
   }
