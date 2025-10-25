@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
           <img 
-            src="https://cdn.poehali.dev/projects/efdf6b54-320c-462c-937f-cde5c2cbee6a/files/1b858e7d-b144-4865-a9f9-7c10655045bd.jpg" 
+            src="https://cdn.poehali.dev/files/72c3a92b-1d58-4fa9-975d-ad6cc53a8ec3.png" 
             alt="Аватар автора"
             className="w-10 h-10 rounded-full object-cover border-2 border-primary/20"
           />
