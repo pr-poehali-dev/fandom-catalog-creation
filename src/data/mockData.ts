@@ -23,7 +23,7 @@ export const mockFandoms: Fandom[] = [
     id: '3',
     slug: 'sherlock',
     title: 'Лига мечтателей',
-    coverUrl: '/placeholder.svg',
+    coverUrl: 'https://cdn.poehali.dev/files/c91ad35c-0171-4126-b5fb-cec1d1f0ac7c.jpg',
     description: 'Закон зверя',
     worksCount: 3,
     updatedAt: '2025-10-15'
